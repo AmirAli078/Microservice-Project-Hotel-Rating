@@ -29,3 +29,4 @@ This is a **Hotel Rating System** project developed using **Spring Boot** and **
 
 This project demonstrates how to build a scalable microservices-based system with multiple databases, secure endpoints, and centralized API routing.
 
+
